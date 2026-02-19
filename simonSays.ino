@@ -1,8 +1,8 @@
 // Pins used by the Arduino UNO
-int BUZZER        = 6;
-int RED_LED       = 3;
-int RED_BUTTON    = 2;
-int YELLOW_LED    = 9;
+int BUZZER        = 6;   /**********************************/
+int RED_LED       = 3;   /* Change these pins according to */
+int RED_BUTTON    = 2;   /*          your wiring!          */
+int YELLOW_LED    = 9;   /**********************************/
 int YELLOW_BUTTON = 10;
 
 // Frequencies played by the Buzzer (all in Hz)
